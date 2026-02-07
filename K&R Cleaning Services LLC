@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>K&R cleaning services LLC. </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      text-align: center;
+    }
+
+    header {
+      background: #2b7cff;
+      color: white;
+      padding: 20px;
+    }
+
+    section {
+      padding: 40px;
+    }
+
+    .card {
+      background: white;
+      margin: 20px auto;
+      padding: 20px;
+      width: 80%;
+      max-width: 400px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background: #222;
+      color: white;
+      padding: 15px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>K&R Cleaning Services LLC</h1>
+  <p>Quality you can trust</p>
+</header>
+
+<section>
+  <h2>Our Services</h2>
+
+  <div class="card">
+    <h3>Service One</h3>
+    <p>The best cleaning service in CT.</p>
+  </div>
+
+  <div class="card">
+    <h3>Service Two</h3>
+    <p>Cleans in every town.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Contact Us</h2>
+  <p>Email: your@email.com</p>
+  <p>Phone: 123-456-7890</p>
+</section>
+
+<footer>
+  <p>© 2026 My Business</p>
+</footer>
+
+</body>
+</html>
